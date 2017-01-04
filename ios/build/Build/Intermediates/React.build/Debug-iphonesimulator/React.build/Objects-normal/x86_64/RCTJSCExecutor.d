@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTUtils.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Volumes/WORK/workspace/react_native/babak/SocialSim/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h
